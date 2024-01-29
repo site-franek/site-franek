@@ -1,0 +1,4 @@
+- 👋 Hi, I’m franek
+- 👀 I’m interested playing giutar and programing
+- 🌱 I’m currently learning javascript and c++
+- ⚡ Fun fact: im from poland.
